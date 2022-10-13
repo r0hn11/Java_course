@@ -1,4 +1,4 @@
-*: important
+*:       important
  0       Main
  1       VariablesAndDataTypes
  2       Literals
@@ -22,6 +22,7 @@
  20      RandomInteger
 >21      Object Oriented Programming (/oop)
 
+/oop
  0      Main
  1      CustomClass
  2      Practice1
@@ -41,44 +42,47 @@
  16     Polymorphism
 >17     Packages (/packages)
 
- 0	  Sample
- 1    Packages
- 2	  Main,Male,Human (adding to package)
- 3	  ImportModule
- 4    /access/AccessModifiers_0
-      /access/AccessModifiers_1
-      AccessModifiers_2
->5	  Advanced Java level 1 (/advanced1)
+/packages
+ 0	Sample
+ 1    	Packages
+ 2	Main,Male,Human (adding to package)
+ 3	ImportModule
+ 4      /access/AccessModifiers_0
+        /access/AccessModifiers_1
+        AccessModifiers_2
+>5	Advanced Java level 1 (/advanced1)
 
- 0		Multithreading
- 1		CreateThreadClass
- 2		CreateThreadInterface
- 3		ThreadConstructors
- 4		ThreadPriorities
- 5		ThreadMethods
- 6		ErrorsTypes
- 7		Exceptions
- 8		CustomExceptions
- 9		ThrowVsThrows
- 10		Finally
->11		Advanced Java level 2 (/advanced2)
+/advanced1
+ 0	Multithreading
+ 1	CreateThreadClass
+ 2	CreateThreadInterface
+ 3	ThreadConstructors
+ 4	ThreadPriorities
+ 5	ThreadMethods
+ 6	ErrorsTypes
+ 7	Exceptions
+ 8	CustomExceptions
+ 9	ThrowVsThrows
+ 10	Finally
+>11	Advanced Java level 2 (/advanced2)
 
- 0		CollectionsFramework
-		collections_hierarchy.png
- 1		ArrayListDemo
- 2		LinkedListDemo
-		linkedlists.png
- 3		ArrayDequeDemo
- 4		Hashing
- 5		HashSetDemo
- 6		DateTime
- 7		DateClass
- 8		CalendarClass
- 9		GregorianCalendarClass
- 10		TimeAPI
- 11		DateTimeFormatterDemo
- 12		JavaDocs
- 13		Annotations
+/advanced2
+ 0	CollectionsFramework
+	collections_hierarchy.png
+ 1	ArrayListDemo
+ 2	LinkedListDemo
+	linkedlists.png
+ 3	ArrayDequeDemo
+ 4	Hashing
+ 5	HashSetDemo
+ 6	DateTime
+ 7	DateClass
+ 8	CalendarClass
+ 9	GregorianCalendarClass
+ 10	TimeAPI
+ 11	DateTimeFormatterDemo
+ 12	JavaDocs
+ 13	Annotations
  14 	AnonymousLambda
- 15		Generics
->16		File Handling (/filehandling)
+ 15	Generics
+>16	File Handling (/filehandling)
