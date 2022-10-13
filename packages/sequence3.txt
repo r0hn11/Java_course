@@ -1,0 +1,8 @@
+ 0	  Sample
+ 1    Packages
+ 2	  Main,Male,Human (adding to package)
+ 3	  ImportModule
+ 4    /access/AccessModifiers_0
+      /access/AccessModifiers_1
+      AccessModifiers_2
+>5	  Advanced Java level 1 (/advanced1)

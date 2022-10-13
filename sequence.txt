@@ -1,0 +1,84 @@
+*: important
+ 0       Main
+ 1       VariablesAndDataTypes
+ 2       Literals
+ 3       UserInput
+ 4       Marks
+ 5       Practice1
+ 6       Operators
+ 7       DataTypeofExpression
+ 8       Practice2
+ 9       Strings
+ 10      EscapeSequences
+ 11      Conditionals
+ 12      Loops
+ 13      BreakContinue
+ 14      Arrays
+ 15      MultidimensionalArrays
+ 16      Methods
+ 17      Method overloading
+*18      VarArgs
+ 19      Recursion
+ 20      RandomInteger
+>21      Object Oriented Programming (/oop)
+
+ 0      Main
+ 1      CustomClass
+ 2      Practice1
+ 3      AccessModifiers
+ 4      GetterSetter
+ 5      Constructors
+ 6      Inheritance
+ 7      ConstructorInheritance
+*8      ThisAndSuper
+ 9      MethodOverriding
+*10     DynamicMethodDispatch
+ 11     AbstractClassMethods
+ 12     Interfaces
+ 13     MultipleInheritance
+*14     DefaultMethods
+ 15     InterfaceInheritance
+ 16     Polymorphism
+>17     Packages (/packages)
+
+ 0	  Sample
+ 1    Packages
+ 2	  Main,Male,Human (adding to package)
+ 3	  ImportModule
+ 4    /access/AccessModifiers_0
+      /access/AccessModifiers_1
+      AccessModifiers_2
+>5	  Advanced Java level 1 (/advanced1)
+
+ 0		Multithreading
+ 1		CreateThreadClass
+ 2		CreateThreadInterface
+ 3		ThreadConstructors
+ 4		ThreadPriorities
+ 5		ThreadMethods
+ 6		ErrorsTypes
+ 7		Exceptions
+ 8		CustomExceptions
+ 9		ThrowVsThrows
+ 10		Finally
+>11		Advanced Java level 2 (/advanced2)
+
+ 0		CollectionsFramework
+		collections_hierarchy.png
+ 1		ArrayListDemo
+ 2		LinkedListDemo
+		linkedlists.png
+ 3		ArrayDequeDemo
+ 4		Hashing
+ 5		HashSetDemo
+ 6		DateTime
+ 7		DateClass
+ 8		CalendarClass
+ 9		GregorianCalendarClass
+ 10		TimeAPI
+ 11		DateTimeFormatterDemo
+ 12		JavaDocs
+ 13		Annotations
+ 14 	AnonymousLambda
+ 15		Generics
+>16		File Handling (/filehandling)

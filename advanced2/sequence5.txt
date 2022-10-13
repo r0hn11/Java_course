@@ -1,0 +1,19 @@
+ 0		CollectionsFramework
+		collections_hierarchy.png
+ 1		ArrayListDemo
+ 2		LinkedListDemo
+		linkedlists.png
+ 3		ArrayDequeDemo
+ 4		Hashing
+ 5		HashSetDemo
+ 6		DateTime
+ 7		DateClass
+ 8		CalendarClass
+ 9		GregorianCalendarClass
+ 10		TimeAPI
+ 11		DateTimeFormatterDemo
+ 12		JavaDocs
+ 13		Annotations
+ 14 	AnonymousLambda
+ 15		Generics
+>16		File Handling (/filehandling)

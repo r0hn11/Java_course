@@ -1,0 +1,34 @@
+Interpreted language vs Compiled language
+
+- Interpreter translates one line at a time to machine code
+- Compiler scans the complete program then translates
+ ___________________________________________________________________________
+| Interpreter                         | Compiler                            |
+ ---------------------------------------------------------------------------
+| One statement at a time             | Entire program at a time            |
+| Needed everytime                    | Once compiled, not needed           |
+| Partial execution if error found    | No execution if error found         |
+| Easy for programmers                | Usually not as easy as Interpreted  |
+| JAVASCRIPT,PYTHON,JAVA,RUBY         | C,C++,C#,JAVA,GO,PYTHON             |
+ ---------------------------------------------------------------------------
+
+Q. Is Java Interpreted or Compiled?
+A. Both.It is a hybrid language. A .java file is compiled using javac (compiler) to create class files (byte code).
+   Then this byte code is used by java interpreter to produce output.
+
+   .java file ---> class file ---> interpreter ---> output
+
+   A java file is compiled using a virtual machine (JVM) thus making java 'platform independent'.
+   {
+    Python also works in similar way, virtual machine varies with python base implementation language.
+    e.g. cpython -> c implementation
+         jython -> java implementation etc.
+    }
+
+Q. Executing java code manually
+A. 1) Write code in a .java file.
+   2) Compile it using command: javac Base.java
+      A class file with the same name will generated for execution. This .class file is your byte code for interpreter
+   3) Execute this .class file using command: java Base
+      Output will be shown.
+      If a package is mentioned then interpreter will fond a Main.class file for execution and will shoot error if not found. Otherwise any mentioned file will be executed.

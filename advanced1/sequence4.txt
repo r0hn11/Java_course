@@ -1,0 +1,12 @@
+ 0		Multithreading
+ 1		CreateThreadClass
+ 2		CreateThreadInterface
+ 3		ThreadConstructors
+ 4		ThreadPriorities
+ 5		ThreadMethods
+ 6		ErrorsTypes
+ 7		Exceptions
+ 8		CustomExceptions
+ 9		ThrowVsThrows
+ 10		Finally
+>11		Advanced Java level 2 (/advanced2)
